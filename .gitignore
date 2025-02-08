@@ -1,0 +1,7 @@
+
+.idea
+.vscode
+target/
+build/
+.lock
+logs
